@@ -1,0 +1,26 @@
+[
+{
+  "directory": "C:/C++_Projects/Playground/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe  @CMakeFiles/main.dir/includes_CXX.rsp -g -o CMakeFiles\\main.dir\\main.cpp.obj -c C:\\C++_Projects\\Playground\\main.cpp",
+  "file": "C:/C++_Projects/Playground/main.cpp",
+  "output": "CMakeFiles/main.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/C++_Projects/Playground/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe  @CMakeFiles/main.dir/includes_CXX.rsp -g -o CMakeFiles\\main.dir\\src\\data.cpp.obj -c C:\\C++_Projects\\Playground\\src\\data.cpp",
+  "file": "C:/C++_Projects/Playground/src/data.cpp",
+  "output": "CMakeFiles/main.dir/src/data.cpp.obj"
+},
+{
+  "directory": "C:/C++_Projects/Playground/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe  @CMakeFiles/main.dir/includes_CXX.rsp -g -o CMakeFiles\\main.dir\\src\\npc.cpp.obj -c C:\\C++_Projects\\Playground\\src\\npc.cpp",
+  "file": "C:/C++_Projects/Playground/src/npc.cpp",
+  "output": "CMakeFiles/main.dir/src/npc.cpp.obj"
+},
+{
+  "directory": "C:/C++_Projects/Playground/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe  @CMakeFiles/main.dir/includes_CXX.rsp -g -o CMakeFiles\\main.dir\\src\\systems.cpp.obj -c C:\\C++_Projects\\Playground\\src\\systems.cpp",
+  "file": "C:/C++_Projects/Playground/src/systems.cpp",
+  "output": "CMakeFiles/main.dir/src/systems.cpp.obj"
+}
+]
